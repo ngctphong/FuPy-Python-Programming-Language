@@ -9,3 +9,6 @@
 
 ## Looping
 [Slides](http://python.slides.com/colt/functions-part-1)
+
+## Lists
+[Slides](http://python.slides.com/colt/lists-13)
