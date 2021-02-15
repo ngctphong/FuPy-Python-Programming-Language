@@ -15,3 +15,6 @@
 
 ## Dictionaries
 [Slides](http://python.slides.com/colt/lists-22)
+
+## Tuples and Sets
+[Slides](http://python.slides.com/colt/lists-23)
