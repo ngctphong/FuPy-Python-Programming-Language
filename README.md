@@ -12,3 +12,6 @@
 
 ## Lists
 [Slides](http://python.slides.com/colt/lists-13)
+
+## Dictionaries
+[Slides](http://python.slides.com/colt/lists-22)
