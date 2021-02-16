@@ -18,3 +18,10 @@
 
 ## Tuples and Sets
 [Slides](http://python.slides.com/colt/lists-23)
+
+## Functions
+[Slides](http://python.slides.com/colt/lists-16)
+
+[Slides](http://python.slides.com/colt/generators-and-decorators)
+
+[Slides](http://python.slides.com/colt/generators-and-decorators#/14)
