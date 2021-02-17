@@ -25,3 +25,6 @@
 [Slides](http://python.slides.com/colt/generators-and-decorators)
 
 [Slides](http://python.slides.com/colt/generators-and-decorators#/14)
+
+## Debugging
+[Slides](http://python.slides.com/colt/lists-24)
