@@ -28,3 +28,6 @@
 
 ## Debugging
 [Slides](http://python.slides.com/colt/lists-24)
+
+## Modules
+[Slides](http://python.slides.com/colt/testing-25)
