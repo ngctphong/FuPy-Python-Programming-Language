@@ -34,3 +34,6 @@
 
 ## OOP
 [Slides](http://python.slides.com/colt/lists-18)
+
+## Iterators, Generators & Decorators
+[Slides](http://python.slides.com/colt/lists-14)
